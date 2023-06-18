@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer<br><br>Frontend: Vue, React<br>Backend: Laravel, NodeJS<br><br>Dev: system administration, backups, docker, CI/CD
+Full-stack developer<br><br>Frontend: Vue, React<br>Backend: Laravel, NodeJS<br><br>Devops: system administration, backups, docker, CI/CD
 
 
 ## 🌐 Socials:
